@@ -224,6 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **AnirudhK** - [GitHub Profile]((https://github.com/slothrulez)
 
 Project Link: [https://github.com/ealiyasshaji/arduino-who-know](https://github.com/ealiyasshaji/arduino-who-know)
+Deployed Project Link: https://arduinowhoknow.netlify.app/
 
 ---
 
