@@ -223,6 +223,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Ealiyasshaji** - [GitHub Profile](https://github.com/ealiyasshaji)
 **AnirudhK** - [GitHub Profile]((https://github.com/slothrulez)
 
+Watch the application in action:
+
+[![Arduino WHO-KNOW? Demo](https://img.shields.io/badge/▶️_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1WBTHtXYWlybV1yjm0dBJPLoutSZprL10/view)
+
 Project Link: [https://github.com/ealiyasshaji/arduino-who-know](https://github.com/ealiyasshaji/arduino-who-know)
 Deployed Project Link: https://arduinowhoknow.netlify.app/
 
